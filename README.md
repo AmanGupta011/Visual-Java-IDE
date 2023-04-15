@@ -1,4 +1,4 @@
-# Visula-Java-IDE
+# Visual-Java-IDE
 
 # Purpose :
 > Visual Java IDE - java editor project is developed for Java programmers for editing and debugging java code. This project has basic features like file, edit, search, format, run , window and help.
